@@ -55,16 +55,6 @@ $ cat about.txt
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phantom-curly&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 ```
