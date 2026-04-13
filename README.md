@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
-██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
-██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
-██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+things+that+work.;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Phantom-curly.Phantom-curly&style=flat-square&color=00ff41)
@@ -35,13 +26,13 @@ $ cat about.txt
 <div align="center">
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
+![React](https://skillicons.dev/icons?i=js,html,css)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,python,express,postgres,mongodb,redis)
+![Backend](https://skillicons.dev/icons?i=python)
 
 ### Tools & Infra
-![Tools](https://skillicons.dev/icons?i=git,docker,linux,vscode,github,vercel)
+![Tools](https://skillicons.dev/icons?i=git,linux,vscode,github,vercel)
 
 </div>
 
@@ -89,8 +80,7 @@ $ cat about.txt
 ╚══════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/dilmurod-toshtemirov)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:sejong22013124@gmail.com)
 
 </div>
