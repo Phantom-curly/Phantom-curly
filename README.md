@@ -15,7 +15,7 @@ $ whoami
 
 $ cat about.txt
 > Full Stack Dev | turning caffeine into commits
-> I build across the stack — from pixel-perfect UIs to backend APIs
+> I build across the stack — from one page landings to AI powered services
 > Currently seeking internship opportunities 🚀
 ```
 
