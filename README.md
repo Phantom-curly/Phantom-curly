@@ -42,13 +42,6 @@ $ cat about.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phantom-curly&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom-curly&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Phantom-curly&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
